@@ -1,0 +1,18 @@
+{
+  "title": "Intel Hackaton Challenge",
+  "challenge1": {
+    "title": "Challenge 1",
+    "description": "Générateur de manga (LLava, Flux)"
+  },
+  "challenge2": {
+    "title": "Challenge 2",
+    "descrip,tion": "Indisponible"
+  },
+
+  "chat": {
+    "title": "Générateur de Manga",
+    "description1": "Commencez une conversation!",
+    "description2": "Entrez une d'escription d'histoire que vous voulez raconter",
+    "telechargement": "PDF"
+  }
+}
